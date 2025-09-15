@@ -15,7 +15,6 @@ p{
 }
 video{
  width: 500px;
- height:400px;
  text-align: center;
  align-items: center;
  justify-content: center;
@@ -30,6 +29,5 @@ a{
 .p2{
     text-align: justify;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
 
 }
