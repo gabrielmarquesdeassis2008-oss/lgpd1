@@ -7,11 +7,11 @@
 }
 .p1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-align: center;
+    text-align: left;
 }
 p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-align:justify;
+    text-align:left;
 }
 video{
  width: 500px;
@@ -25,7 +25,8 @@ a{
     color: red;
 }
 .p2{
-    text-align: justify;
+    text-align: left;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
 
 }
